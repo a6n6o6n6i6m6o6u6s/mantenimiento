@@ -12,7 +12,7 @@ ClienteMaster es una aplicación eficiente diseñada para gestionar registros de
 ## Instalación
 
 1.  **Requisitos:**
-    *   Visual Studio
+    *   Visual Studio 2022
     *   SQL Server
     *   Conector de .NET para SQL Server
 2.  **Generación del instalador:**
